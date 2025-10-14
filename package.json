@@ -3,7 +3,7 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
-    "srv": "node ./srv.js"
+    "start": "node srv.js"
   },
   "dependencies": {
     "showdown": "^2.1.0"
