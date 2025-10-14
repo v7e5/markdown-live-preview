@@ -44,8 +44,8 @@ PORT=8000
 - This tool is for localhost use and supports only one SSE client at a time, so
 if you have multiple tabs open with the same URL, only the last one receives
 updates.
-- GitHub Flavored Markdown is the default dialect used in this project. You can
-change this and configure other options in `srv.js`.
+- GitHub Flavored Markdown is the default flavor. You can change this and
+configure other options in `srv.js`.
 ```javascript
 const conv = new md.Converter()
 conv.setFlavor('github')
