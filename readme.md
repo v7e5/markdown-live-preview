@@ -6,7 +6,8 @@ preview for Markdown in the browser using
 me quickly preview and verify README formatting for my GitHub projects.
 
 <video style='max-width: 100%; object-fit: contain;'
-src='screencast.mp4' autoplay muted controls loop></video>
+src='https://github.com/v7e5/markdown-live-preview/raw/refs/heads/master/screencast.mp4'
+autoplay muted controls loop></video>
 
 ## Features
 - Edit in any editor; updates appear instantly on save.
