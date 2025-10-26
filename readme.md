@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/7e61e743-7cc7-44e2-b1cd-d2825f6f72ff
-
 # Markdown Live Preview
 
 A tiny (<50 lines) Node.js utility that delivers real-time rendering and
@@ -10,7 +6,7 @@ preview for Markdown in the browser using
 me quickly preview and verify README formatting for my GitHub projects.
 
 <video style='max-width: 100%; object-fit: contain;'
-src='https://github.com/v7e5/markdown-live-preview/raw/refs/heads/master/screencast.mp4'
+src='https://github.com/user-attachments/assets/7e61e743-7cc7-44e2-b1cd-d2825f6f72ff'
 autoplay muted controls loop></video>
 
 ## Features
