@@ -5,9 +5,10 @@ preview for Markdown in the browser using
 [Showdown](https://github.com/showdownjs/showdown). I built this tool to help
 me quickly preview and verify README formatting for my GitHub projects.
 
-<video style='max-width: 100%; object-fit: contain;'
-src='https://github.com/user-attachments/assets/7e61e743-7cc7-44e2-b1cd-d2825f6f72ff'
-autoplay muted controls loop></video>
+<video autoplay muted controls loop
+  style='max-width: 100%; object-fit: contain;'
+  src='https://github.com/user-attachments/assets/7e61e743-7cc7-44e2-b1cd-d2825f6f72ff'>
+</video>
 
 ## Features
 - Edit in any editor; updates appear instantly on save.
